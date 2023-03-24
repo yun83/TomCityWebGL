@@ -1,4 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-TomCityWebGL.data filter=lfs diff=lfs merge=lfs -text
-TomCityWebGL.data.unityweb filter=lfs diff=lfs merge=lfs -text
